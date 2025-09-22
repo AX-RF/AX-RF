@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=38BDF8&width=100%&height=150§ion=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=5000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abderrahmane+Laourf;A+Web+Developer+from+Morocco;A+Full-Stack+Developer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=5000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abderrahmane+Laourf;A+Web+Developer+from+Morocco;A+I'm+App+Developer." alt="Typing SVG" />
 </div>
 
 <!-- Top Wave Animation -->
@@ -15,16 +15,16 @@
 // My journey is driven by a curiosity for what's next, pushing me to explore 
 // Web Dev, Cloud Computing, UI/UX, and the fascinating world of AI.
 
-const abderrahmane = {
+const faysal = {
   location: "Morocco",
-  education: ["Technicien Spécialisé en Développement Digital", "1337 Pool"],
+  education: ["Technicien Spécialisé en Développement Digital"],
   learning: {
     rightNow: ["ReactJS", "TailwindCSS", "Advanced JS"],
     upNext: ["Node.js", "Express.js", "MongoDB"]
   },
   interests: {
     professional: ["Web Development", "UI/UX Design", "Cloud Computing", "AI"],
-    personal: ["Competitive Gaming", "Problem Solving", "Content Creation"]
+    personal: ["Problem Solving", "Content Creation"]
   },
   challenge: "I'm always ready for the next one."
 };
@@ -62,8 +62,8 @@ const abderrahmane = {
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abderrahmane-laourf&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahmane-laourf&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faysaljs&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysaljs&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
 </div>
 
 ---
@@ -71,22 +71,15 @@ const abderrahmane = {
 ### 🌎 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
+  <a href="https://linkedin.com/in/faysal-elallaoui-554239344" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/your-username" target="_blank">
+  <a href="https://instagram.com/faysal.elallaoui" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="" target="_blank">
+  <a href="mailto:faysalelallaoui2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://youtube.com/your-channel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://discord.gg/your-invite" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="futuristic code animation" />
